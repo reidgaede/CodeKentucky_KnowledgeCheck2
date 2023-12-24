@@ -1,0 +1,14 @@
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_2/Git_Repositories/CodeKentucky_KnowledgeCheck2/bin/Debug/net7.0/CodeKentucky_KnowledgeCheck2
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_2/Git_Repositories/CodeKentucky_KnowledgeCheck2/bin/Debug/net7.0/CodeKentucky_KnowledgeCheck2.deps.json
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_2/Git_Repositories/CodeKentucky_KnowledgeCheck2/bin/Debug/net7.0/CodeKentucky_KnowledgeCheck2.runtimeconfig.json
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_2/Git_Repositories/CodeKentucky_KnowledgeCheck2/bin/Debug/net7.0/CodeKentucky_KnowledgeCheck2.dll
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_2/Git_Repositories/CodeKentucky_KnowledgeCheck2/bin/Debug/net7.0/CodeKentucky_KnowledgeCheck2.pdb
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_2/Git_Repositories/CodeKentucky_KnowledgeCheck2/obj/Debug/net7.0/CodeKentucky_KnowledgeCheck2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_2/Git_Repositories/CodeKentucky_KnowledgeCheck2/obj/Debug/net7.0/CodeKentucky_KnowledgeCheck2.AssemblyInfoInputs.cache
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_2/Git_Repositories/CodeKentucky_KnowledgeCheck2/obj/Debug/net7.0/CodeKentucky_KnowledgeCheck2.AssemblyInfo.cs
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_2/Git_Repositories/CodeKentucky_KnowledgeCheck2/obj/Debug/net7.0/CodeKentucky_KnowledgeCheck2.csproj.CoreCompileInputs.cache
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_2/Git_Repositories/CodeKentucky_KnowledgeCheck2/obj/Debug/net7.0/CodeKentucky_KnowledgeCheck2.dll
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_2/Git_Repositories/CodeKentucky_KnowledgeCheck2/obj/Debug/net7.0/refint/CodeKentucky_KnowledgeCheck2.dll
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_2/Git_Repositories/CodeKentucky_KnowledgeCheck2/obj/Debug/net7.0/CodeKentucky_KnowledgeCheck2.pdb
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_2/Git_Repositories/CodeKentucky_KnowledgeCheck2/obj/Debug/net7.0/CodeKentucky_KnowledgeCheck2.genruntimeconfig.cache
+/Users/Reid/Documents/CodeKentucky_Projects/2_SD_M1-M4|Tuesday/Module_2/Git_Repositories/CodeKentucky_KnowledgeCheck2/obj/Debug/net7.0/ref/CodeKentucky_KnowledgeCheck2.dll
