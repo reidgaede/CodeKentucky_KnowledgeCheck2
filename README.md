@@ -1,3 +1,5 @@
+[This repo constitutes an assignment I completed for the second Knowledge Check in [Code Kentucky's](https://codekentucky.org/)/[Code Louisville's](https://codelouisville.org/)/Code:You's software development pathway.]
+
 # Knowledge Check 2 for Software Course 1
 
 1. Create a new Repository by clicking the green ["Use this Template"](https://github.com/CodeLouisville/sdc1-knowledge-check-2/generate) button and setup a new repository in your account.
